@@ -47,7 +47,7 @@
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT)
+- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Recordu45/HINDUS_USERBOT)
 
 ------------------------------------------------
   
