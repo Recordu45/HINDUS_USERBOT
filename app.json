@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/HINDUS-AKSHAY/HINDUS_USERBOT",
+  "repository": "https://github.com/Recordu45/HINDUS_USERBOT",
   "website": "#TODO",
   "success_url": "https://t.me/HINDUS_USERBOT_SUPPORT",
   "env": {
@@ -81,5 +81,6 @@
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
-  }]
+  }],
+  "stack": "heroku-22"
 }
